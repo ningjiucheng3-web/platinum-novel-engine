@@ -1,0 +1,16 @@
+{
+  "active_cooldowns": {
+    "深吸一口气": {
+      "last_used_chapter": 0,
+      "cooldown_until": 5
+    },
+    "嘴角勾起一抹冷笑": {
+      "last_used_chapter": 0,
+      "cooldown_until": 10
+    },
+    "夕阳如血": {
+      "last_used_chapter": 0,
+      "cooldown_until": 6
+    }
+  }
+}

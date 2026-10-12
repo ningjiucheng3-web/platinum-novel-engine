@@ -1,0 +1,5 @@
+# Universal Novel Engine dependencies
+# Pure Python standard library by default!
+# Optional formatting / color enhancements:
+colorama>=0.4.6
+tqdm>=4.66.0

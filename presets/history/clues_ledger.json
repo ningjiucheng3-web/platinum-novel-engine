@@ -1,0 +1,12 @@
+[
+  {
+    "id": "CLUE-001",
+    "name": "旧年辽东军粮账册残卷",
+    "planted_chapter": 1,
+    "surface_mask": "垫桌角的一本旧账簿，字迹模糊",
+    "secret_core": "记录了当朝首辅通敌倒卖军械的唯一铁证",
+    "watered_chapters": [],
+    "target_payoff_arc": "第一卷末朝堂大清算",
+    "status": "planted"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "active_cooldowns": {
+    "倒吸一口凉气": {
+      "last_used_chapter": 0,
+      "cooldown_until": 999
+    },
+    "恐怖如斯": {
+      "last_used_chapter": 0,
+      "cooldown_until": 999
+    }
+  }
+}

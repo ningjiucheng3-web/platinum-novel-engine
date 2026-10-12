@@ -1,0 +1,12 @@
+[
+  {
+    "id": "CLUE-001",
+    "name": "表面磨损的古典黄铜怀表",
+    "planted_chapter": 1,
+    "surface_mask": "典当行五便士淘来的旧怀表，秒针偶尔倒转",
+    "secret_core": "源自第四纪图铎王朝的【时空窥镜】核心齿轮",
+    "watered_chapters": [],
+    "target_payoff_arc": "第一卷末特里尔大雾霾浩劫",
+    "status": "planted"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "volume_id": "VOL-01",
+  "volume_title": "第一卷：白简如霜",
+  "macro_conflict": "朝廷三饷摊派，江南豪强匿户抗粮，京畿官场风声鹤唳，主角以户曹书吏身份入局算账破局。",
+  "protagonist_dual_persona": {
+    "surface": "谨小慎微、按规矩行文的督邮曹书吏",
+    "shadow": "手握账目漏洞、暗中重构地盘的寒门执棋者"
+  },
+  "chapter_beats": {
+    "1": {
+      "title": "落雪按刀，度支疑云",
+      "conflict_pivot": "查验各县私盐账目，发现豪强瞒报数千顷官田",
+      "combat_motif": "衙署暗杀与狭窄回廊冷兵器搏杀",
+      "active_clue_to_water": "CLUE-001"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "volume_id": "VOL-01",
+  "volume_title": "第一卷：微末散修",
+  "macro_conflict": "修仙界灵气日渐稀薄，各大宗门垄断筑基丹药，底层外门矿修命如草芥，主角在夹缝中谋求长生资粮。",
+  "protagonist_dual_persona": {
+    "surface": "资质平庸、按部就班挖矿的外门杂役",
+    "shadow": "暗中掌握催熟灵草玄宝、冷血夺宝的求道孤狼"
+  },
+  "chapter_beats": {
+    "1": {
+      "title": "废矿暗影，铁剑初鸣",
+      "conflict_pivot": "矿洞遭遇同门劫杀，反杀灭口并搜刮储物袋",
+      "combat_motif": "飞剑对撞灵光黯淡与近身符箓偷袭",
+      "active_clue_to_water": "CLUE-001"
+    }
+  }
+}

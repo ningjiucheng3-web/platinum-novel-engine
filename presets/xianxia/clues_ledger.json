@@ -1,0 +1,12 @@
+[
+  {
+    "id": "CLUE-001",
+    "name": "生锈的无铭青铜小药铲",
+    "planted_chapter": 1,
+    "surface_mask": "杂役堂配发的生锈采药废铁",
+    "secret_core": "可吸纳草木精魄、逆转药材年份的上古仙府遗珍",
+    "watered_chapters": [],
+    "target_payoff_arc": "筑基秘境夺丹战",
+    "status": "planted"
+  }
+]

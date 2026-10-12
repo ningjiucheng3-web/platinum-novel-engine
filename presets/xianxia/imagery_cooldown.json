@@ -1,0 +1,8 @@
+{
+  "active_cooldowns": {
+    "冷哼一声跳将出来": {
+      "last_used_chapter": 0,
+      "cooldown_until": 999
+    }
+  }
+}

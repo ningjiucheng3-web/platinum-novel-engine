@@ -1,0 +1,17 @@
+{
+  "volume_id": "VOL-01",
+  "volume_title": "第一卷：大荒出牧",
+  "macro_conflict": "神魔视下界凡人为口粮血祭，人族帝国开启太学变法，推行算学改制法宝，主角走出大荒踏入人世。",
+  "protagonist_dual_persona": {
+    "surface": "懵懂无害、初入江湖的乡下放牛少年",
+    "shadow": "精通古道法禁忌、肉身战力恐怖的变法破壁者"
+  },
+  "chapter_beats": {
+    "1": {
+      "title": "大漠风沙，老实少年",
+      "conflict_pivot": "斩杀企图血祭村落的神庙执法使，夺取神符",
+      "combat_motif": "几何算学角度的元气丝线切割与骨裂沉重反馈",
+      "active_clue_to_water": "CLUE-001"
+    }
+  }
+}
