@@ -1,12 +1,14 @@
 [
   {
     "id": "CLUE-001",
-    "name": "生锈的无铭青铜小药铲",
+    "name": "洗剑池底断裂古剑",
     "planted_chapter": 1,
-    "surface_mask": "杂役堂配发的生锈采药废铁",
-    "secret_core": "可吸纳草木精魄、逆转药材年份的上古仙府遗珍",
-    "watered_chapters": [],
-    "target_payoff_arc": "筑基秘境夺丹战",
-    "status": "planted"
+    "surface_mask": "池底烂泥中的无名锈铁",
+    "secret_core": "初代祖师斩妖所断之佩剑本命灵魄",
+    "watered_chapters": [
+      1
+    ],
+    "target_harvest_chapter": 110,
+    "status": "active"
   }
 ]

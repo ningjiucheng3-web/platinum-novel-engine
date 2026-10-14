@@ -1,6 +1,8 @@
 {
   "protagonist": {
     "name": "沈淮",
+    "role": "protagonist",
+    "debut_chapter": 1,
     "voice_tone": "沉稳端方，言辞合乎汉晋仪轨，内心极度理智，精算天下账目",
     "habitual_gestures": [
       "按刀四顾",
@@ -21,5 +23,44 @@
         "户部度支旧账册一本"
       ]
     }
-  }
+  },
+  "characters": [
+    {
+      "name": "沈淮",
+      "role": "protagonist",
+      "debut_chapter": 1,
+      "archetype": "理智寒门度支吏"
+    },
+    {
+      "name": "老韩头",
+      "role": "guide",
+      "debut_chapter": 1,
+      "archetype": "引路老吏/前代度支案幸存者",
+      "exit_mechanism": "第24章因查获私盐亏空被豪强灭口，临终前将京畿暗账残册托付主角，达成代谢交接"
+    },
+    {
+      "name": "铁柱",
+      "role": "loyal_escort",
+      "debut_chapter": 1,
+      "archetype": "忠勇伴行/军伍退役刀手"
+    },
+    {
+      "name": "崔景纯",
+      "role": "peer_rival",
+      "debut_chapter": 26,
+      "archetype": "世族门阀宿敌/同年入仕竞争者，行事狠辣有制度法度"
+    },
+    {
+      "name": "薛大郎",
+      "role": "rebel_comrade",
+      "debut_chapter": 88,
+      "archetype": "大乱期反贼头领/结义生死兄弟"
+    },
+    {
+      "name": "陈文和",
+      "role": "institutional_strategist",
+      "debut_chapter": 255,
+      "archetype": "深谋远虑的制度型军师/阴鸷策士"
+    }
+  ]
 }

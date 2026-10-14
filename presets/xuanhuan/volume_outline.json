@@ -8,10 +8,46 @@
   },
   "chapter_beats": {
     "1": {
+      "chapter_id": 1,
+      "volume_id": "VOL-01",
       "title": "大漠风沙，老实少年",
-      "conflict_pivot": "斩杀企图血祭村落的神庙执法使，夺取神符",
-      "combat_motif": "几何算学角度的元气丝线切割与骨裂沉重反馈",
-      "active_clue_to_water": "CLUE-001"
+      "word_budget": 3500,
+      "paragraph_budget": {
+        "total_target": 65,
+        "short_paragraphs_target_pct": 52,
+        "max_paragraph_length": 110
+      },
+      "narrative_four_dimensions": {
+        "action_and_physical_friction_pct": 52.0,
+        "interleaved_dialogue_pct": 40.0,
+        "environment_and_logistics_pct": 7.0,
+        "pure_monologue_pct": 1.0
+      },
+      "scene_beats": [
+        {
+          "scene_id": 1,
+          "location": "大荒边关断壁残垣（黑夜狂风夹带骨殖、腐朽木雕神像、残存篝火）",
+          "characters_present": [
+            {
+              "name": "陆玄",
+              "action_objective": "削断神庙执法使的飞剑索命符，割下异种鹿皮充饥",
+              "hidden_motivation": "暗中验算村长所授几何算学轨迹，寻找神庙功法的破绽死角",
+              "sensory_micro_gesture": "指尖拂过杀猪短刃锋刃，听金属嗡鸣声计算风阻"
+            }
+          ],
+          "physical_friction_point": "飞剑寒气冻裂掌心皮肉，短刃切入青铜剑脊遭遇反震剧痛",
+          "spoken_subtext": "自称无害山民，每问一句老实问题便前踏一步拉近必杀距离",
+          "clue_action": {
+            "clue_id": "CLUE-001",
+            "action_type": "WATER",
+            "concrete_detail": "怀中木烟杆在神庙黑光照耀下隐隐泛起微弱青金色光晕"
+          }
+        }
+      ],
+      "chapter_tail_hook": {
+        "tail_physical_state": "陆玄拔出染血短刃在草靴上擦拭血沫，地平线尽头三道神庙巡界流光骤然停滞转向",
+        "unresolved_friction": "大荒黑夜暴雪封路，追兵已嗅到异血气息"
+      }
     }
   }
 }

@@ -1,17 +1,53 @@
 {
   "volume_id": "VOL-01",
-  "volume_title": "第一卷：微末散修",
-  "macro_conflict": "修仙界灵气日渐稀薄，各大宗门垄断筑基丹药，底层外门矿修命如草芥，主角在夹缝中谋求长生资粮。",
+  "volume_title": "第一卷：外门洗剑",
+  "macro_conflict": "宗门气运枯竭，外门资源被豪族把持，主角以微末杂役之躯借古剑经破局。",
   "protagonist_dual_persona": {
-    "surface": "资质平庸、按部就班挖矿的外门杂役",
-    "shadow": "暗中掌握催熟灵草玄宝、冷血夺宝的求道孤狼"
+    "surface": "任劳任怨的外门杂役弟子",
+    "shadow": "暗修失传斩仙古剑诀的逆天求道者"
   },
   "chapter_beats": {
     "1": {
-      "title": "废矿暗影，铁剑初鸣",
-      "conflict_pivot": "矿洞遭遇同门劫杀，反杀灭口并搜刮储物袋",
-      "combat_motif": "飞剑对撞灵光黯淡与近身符箓偷袭",
-      "active_clue_to_water": "CLUE-001"
+      "chapter_id": 1,
+      "volume_id": "VOL-01",
+      "title": "寒泉试剑，浊浊风尘",
+      "word_budget": 3200,
+      "paragraph_budget": {
+        "total_target": 60,
+        "short_paragraphs_target_pct": 50,
+        "max_paragraph_length": 115
+      },
+      "narrative_four_dimensions": {
+        "action_and_physical_friction_pct": 50.0,
+        "interleaved_dialogue_pct": 41.0,
+        "environment_and_logistics_pct": 8.0,
+        "pure_monologue_pct": 1.0
+      },
+      "scene_beats": [
+        {
+          "scene_id": 1,
+          "location": "洗剑池畔（寒水刺骨、青苔滑腻、残损顽石）",
+          "characters_present": [
+            {
+              "name": "陈青",
+              "action_objective": "在寒泉中磨砺钝剑，排出体内火毒",
+              "hidden_motivation": "试探吴执事暗中布下的眼线",
+              "sensory_micro_gesture": "粗粝麻布拭过青竹剑锋，指尖因寒冷发紫轻颤"
+            }
+          ],
+          "physical_friction_point": "顽石坚硬崩裂竹木剑胎，火毒顺经脉上涌引发剧烈喘息",
+          "spoken_subtext": "谨守尊卑规矩，言辞无懈可击",
+          "clue_action": {
+            "clue_id": "CLUE-001",
+            "action_type": "WATER",
+            "concrete_detail": "池底淤泥中显露半截锈蚀青铜剑柄"
+          }
+        }
+      ],
+      "chapter_tail_hook": {
+        "tail_physical_state": "陈青挽剑入鞘，身后竹林骤起杀意破空风声",
+        "unresolved_friction": "足下青苔湿滑难以发力，飞剑已临三尺门前"
+      }
     }
   }
 }

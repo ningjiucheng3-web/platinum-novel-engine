@@ -1,11 +1,13 @@
 {
   "protagonist": {
     "name": "陆玄",
+    "role": "protagonist",
+    "debut_chapter": 1,
     "voice_tone": "笑眯眯，自称大荒老实山民，言语温和纯朴，下手绝不容情",
     "habitual_gestures": [
       "纯真微笑",
       "摸后脑勺",
-      "藏在袖中的断空刀微振"
+      "藏在袖中的断空短刃微振"
     ],
     "forbidden_behaviors": [
       "严禁邪魅装逼",
@@ -21,5 +23,44 @@
         "行囊里的苞谷面饼"
       ]
     }
-  }
+  },
+  "characters": [
+    {
+      "name": "陆玄",
+      "role": "protagonist",
+      "debut_chapter": 1,
+      "archetype": "纯良外表下的道法革命者"
+    },
+    {
+      "name": "瞎眼跛足老村长",
+      "role": "guide",
+      "debut_chapter": 1,
+      "archetype": "引路老人/残老村守护者",
+      "exit_mechanism": "第18章将人皇祖印交予主角后封村闭关，隔绝大荒与人世，主角独自入延康求学"
+    },
+    {
+      "name": "哑巴铁匠",
+      "role": "loyal_escort",
+      "debut_chapter": 1,
+      "archetype": "护道者/神兵锻造哑仆"
+    },
+    {
+      "name": "卫天元",
+      "role": "peer_rival",
+      "debut_chapter": 30,
+      "archetype": "太学院第一国士/算学神通天骄镜像"
+    },
+    {
+      "name": "白狐妖帅",
+      "role": "rebel_comrade",
+      "debut_chapter": 92,
+      "archetype": "乱世起义异族统领"
+    },
+    {
+      "name": "天圣教主",
+      "role": "institutional_strategist",
+      "debut_chapter": 260,
+      "archetype": "暗中掌控半壁帝国的改革总舵手"
+    }
+  ]
 }

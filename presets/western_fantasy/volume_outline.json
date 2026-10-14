@@ -1,17 +1,53 @@
 {
   "volume_id": "VOL-01",
-  "volume_title": "第一卷：雾夜占卜家",
-  "macro_conflict": "工业革命蒸汽车间下的贫困工人与黑死病阴影，非凡者官方教会与隐秘邪神教派的暗中绞杀，主角为了求生与寻找回家之路探索序列之秘。",
+  "volume_title": "第一卷：雾港低语",
+  "macro_conflict": "蒸汽工业与旧日邪神崇拜剧烈碰撞，教会垄断灵能，主角以无名赏金猎人身份探查连环异化案。",
   "protagonist_dual_persona": {
-    "surface": "为中产阶级寻找失踪宠物的平民侦探",
-    "shadow": "灰雾神殿之上统御隐秘聚会的神秘执掌者"
+    "surface": "为金磅奔波的二流枪手",
+    "shadow": "掌控上古禁忌炼金法典的阴影清算人"
   },
   "chapter_beats": {
     "1": {
-      "title": "煤气灯下，铅弹与灵摆",
-      "conflict_pivot": "调查一起富商暴毙案，遭遇畸变怪物袭击，开枪反击",
-      "combat_motif": "左轮后坐力与硝烟味，精神受到轻微污染的幻听针扎感",
-      "active_clue_to_water": "CLUE-001"
+      "chapter_id": 1,
+      "volume_id": "VOL-01",
+      "title": "浓雾转轮，煤灰深巷",
+      "word_budget": 3400,
+      "paragraph_budget": {
+        "total_target": 65,
+        "short_paragraphs_target_pct": 55,
+        "max_paragraph_length": 110
+      },
+      "narrative_four_dimensions": {
+        "action_and_physical_friction_pct": 49.0,
+        "interleaved_dialogue_pct": 41.0,
+        "environment_and_logistics_pct": 9.0,
+        "pure_monologue_pct": 1.0
+      },
+      "scene_beats": [
+        {
+          "scene_id": 1,
+          "location": "黑水巷泥泞石子路（燃气路灯摇曳、煤灰烟雾刺鼻、阴冷雨水）",
+          "characters_present": [
+            {
+              "name": "罗恩",
+              "action_objective": "装填特制银粉铅弹，截停走私异化器官的马车",
+              "hidden_motivation": "寻找杀死搭档的畸变教会信徒线索",
+              "sensory_micro_gesture": "指尖感知击锤回弹阻力，黄铜转轮发出清脆咔哒声"
+            }
+          ],
+          "physical_friction_point": "受潮黑火药引燃滞涩，后坐力剧烈震麻虎口与腕骨",
+          "spoken_subtext": "短促冰冷的黑帮切口问询",
+          "clue_action": {
+            "clue_id": "CLUE-001",
+            "action_type": "WATER",
+            "concrete_detail": "马车残骸中掉出一枚印有三眼乌鸦徽记的染血铜怀表"
+          }
+        }
+      ],
+      "chapter_tail_hook": {
+        "tail_physical_state": "罗恩将发烫的枪管抵在奄奄一息的驭手额头，浓雾深处骤然响起沉重蒸汽机甲践踏声",
+        "unresolved_friction": "弹仓仅余一枚子弹，蒸汽护卫已封死巷口两端"
+      }
     }
   }
 }

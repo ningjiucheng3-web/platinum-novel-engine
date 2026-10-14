@@ -1,25 +1,46 @@
 {
   "protagonist": {
-    "name": "李沉舟",
-    "voice_tone": "相貌平平，言语寡淡木讷，行事极度低调隐忍，遇杀局断腕果决",
+    "name": "陈青",
+    "role": "protagonist",
+    "debut_chapter": 1,
+    "voice_tone": "淡漠寡言，敬畏因果天道，剑出必见血",
     "habitual_gestures": [
-      "退后半步",
-      "双手拢入袖口",
-      "指腹摩挲储物袋"
+      "拂尘整袖",
+      "按剑而立",
+      "静默闭目"
     ],
     "forbidden_behaviors": [
-      "严禁出风头",
-      "严禁为虚名争斗",
-      "严禁妇人之仁放虎归山"
+      "严禁盲目越级狂虐全场",
+      "严禁废话连篇"
     ],
     "current_status": {
-      "location": "青云宗外门矿山小棚",
-      "health": "炼气四层，经脉略显干涩",
+      "location": "九华剑宗外门杂役竹林",
+      "health": "炼气三层，经脉有火毒郁结",
       "equipment": [
-        "粗糙灰布道袍",
-        "下品精铁飞剑",
-        "三块下品灵石"
+        "青竹剑一柄",
+        "残缺度厄经一卷"
       ]
     }
-  }
+  },
+  "characters": [
+    {
+      "name": "陈青",
+      "role": "protagonist",
+      "debut_chapter": 1,
+      "archetype": "苦修求道剑修"
+    },
+    {
+      "name": "吴执事",
+      "role": "guide",
+      "debut_chapter": 1,
+      "archetype": "引路外门执事",
+      "exit_mechanism": "第21章因筑基失败大限将至坐化，将外门信物与残缺剑经留与主角"
+    },
+    {
+      "name": "赵真传",
+      "role": "peer_rival",
+      "debut_chapter": 28,
+      "archetype": "内门天骄宿敌镜像"
+    }
+  ]
 }

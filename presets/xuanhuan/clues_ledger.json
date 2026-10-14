@@ -3,10 +3,12 @@
     "id": "CLUE-001",
     "name": "村长丢弃的断柄木烟杆",
     "planted_chapter": 1,
-    "surface_mask": "老人抽劣质旱烟用的普通木管",
+    "surface_mask": "老人抽劣质旱烟用的普通枯木管",
     "secret_core": "前代人皇断裂的人道祖神器残片",
-    "watered_chapters": [],
-    "target_payoff_arc": "人皇殿诸神黄昏",
-    "status": "planted"
+    "watered_chapters": [
+      1
+    ],
+    "target_harvest_chapter": 150,
+    "status": "active"
   }
 ]

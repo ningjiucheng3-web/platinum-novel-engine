@@ -8,10 +8,52 @@
   },
   "chapter_beats": {
     "1": {
+      "chapter_id": 1,
+      "volume_id": "VOL-01",
       "title": "落雪按刀，度支疑云",
-      "conflict_pivot": "查验各县私盐账目，发现豪强瞒报数千顷官田",
-      "combat_motif": "衙署暗杀与狭窄回廊冷兵器搏杀",
-      "active_clue_to_water": "CLUE-001"
+      "word_budget": 3500,
+      "paragraph_budget": {
+        "total_target": 65,
+        "short_paragraphs_target_pct": 52,
+        "max_paragraph_length": 110
+      },
+      "narrative_four_dimensions": {
+        "action_and_physical_friction_pct": 48.0,
+        "interleaved_dialogue_pct": 42.0,
+        "environment_and_logistics_pct": 9.0,
+        "pure_monologue_pct": 1.0
+      },
+      "scene_beats": [
+        {
+          "scene_id": 1,
+          "location": "督邮曹东厢书案（炭盆将熄、窗缝灌入带雪冷风、积年受潮账册）",
+          "characters_present": [
+            {
+              "name": "沈淮",
+              "action_objective": "核查淮南盐铁使虚报之折色粮米，找出五万石亏空差额",
+              "hidden_motivation": "试探老吏老韩头是否已收了城西门阀炭敬，预备锁定第一份罪证",
+              "sensory_micro_gesture": "指肚轻擦受潮发脆的粗黄账纸边缘，按压算筹发出轻微顿挫声"
+            },
+            {
+              "name": "老韩头",
+              "action_objective": "催促沈淮按旧例在销账公文上押字画押",
+              "hidden_motivation": "暗中收过豪强炭敬，恐惧引火烧身，欲拉沈淮分担罪责",
+              "sensory_micro_gesture": "拢袖缩颈，咳嗽两声后用茶盖撇去泛黄茶沫"
+            }
+          ],
+          "physical_friction_point": "砚台冻结无法着墨，需呵热气化墨；老吏故意碰翻茶盏湿污关键页账目",
+          "spoken_subtext": "表面商量按公文旧例行事，实则在查验底线与问罪杀机间暗流涌动",
+          "clue_action": {
+            "clue_id": "CLUE-001",
+            "action_type": "WATER",
+            "concrete_detail": "老吏腰间挂着一枚磨损严重的青铜鱼形旧牌，与十年前案卷印泥缺口完全吻合"
+          }
+        }
+      ],
+      "chapter_tail_hook": {
+        "tail_physical_state": "沈淮手中狼毫笔尖悬停在泛黄旧账末尾，屋顶瓦片忽传来一声极轻微的踩雪脆响",
+        "unresolved_friction": "佩刀挂在三步外横桁上，来人已至屋檐，刀与墨不可兼得"
+      }
     }
   }
 }

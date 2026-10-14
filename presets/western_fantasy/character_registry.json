@@ -1,24 +1,47 @@
 {
   "protagonist": {
-    "name": "安东尼·莫兰",
-    "voice_tone": "维多利亚绅士礼仪，表面温和客气，内心理性缜密，时刻谨防理智失控",
+    "name": "罗恩",
+    "role": "protagonist",
+    "debut_chapter": 1,
+    "voice_tone": "冷静克制，恪守佣兵生存信条，精通算计与火器装填",
     "habitual_gestures": [
-      "轻正单片眼镜或礼帽",
-      "右手探入风衣口袋握紧左轮",
-      "默默计数心跳"
+      "检查转轮机括",
+      "用指腹摩挲火药残渣",
+      "拉低风衣帽檐"
     ],
     "forbidden_behaviors": [
-      "严禁冲动无脑莽撞",
-      "严禁忽视理智失控征兆"
+      "严禁盲信正义荣耀",
+      "严禁冲动当英雄"
     ],
     "current_status": {
-      "location": "贝克兰德桥区廉价公寓",
-      "health": "灵性平稳，序列9【占卜家】初阶",
+      "location": "雾港下城区黑水巷酒馆",
+      "health": "良好，右耳轻微耳鸣（近距离枪击后遗症）",
       "equipment": [
-        "旧双排扣厚呢风衣",
-        "转轮手枪一柄及六枚猎魔子弹",
-        "黄铜怀表"
+        "改良式短管转轮枪",
+        "铅弹十二枚",
+        "怀表"
       ]
     }
-  }
+  },
+  "characters": [
+    {
+      "name": "罗恩",
+      "role": "protagonist",
+      "debut_chapter": 1,
+      "archetype": "蒸汽与火枪时代的实用主义赏金猎人"
+    },
+    {
+      "name": "老瘸子鲍恩",
+      "role": "guide",
+      "debut_chapter": 1,
+      "archetype": "引路老兵/枪械改造师",
+      "exit_mechanism": "第22章为掩护主角撤离被蒸汽教会逮捕流放黑牢，临行前交付密室钥匙"
+    },
+    {
+      "name": "维克托中尉",
+      "role": "peer_rival",
+      "debut_chapter": 27,
+      "archetype": "帝国调查局年轻新贵/猎魔宿敌镜像"
+    }
+  ]
 }

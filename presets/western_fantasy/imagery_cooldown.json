@@ -1,8 +1,3 @@
 {
-  "active_cooldowns": {
-    "桀桀怪笑": {
-      "last_used_chapter": 0,
-      "cooldown_until": 999
-    }
-  }
+  "active_cooldowns": {}
 }
